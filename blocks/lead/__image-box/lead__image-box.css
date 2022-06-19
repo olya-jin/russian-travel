@@ -1,0 +1,7 @@
+.lead__image-box {
+    margin: 0 0 auto;
+    max-width: 984px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}

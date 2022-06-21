@@ -6,3 +6,6 @@ __Технологии используемые в проекте__
 3. Flexbox
 4. Grid
 5. Методология БЭМ Nested
+
+__Ссылка на сайт__
+https://olya-jin.github.io/russian-travel/index.html

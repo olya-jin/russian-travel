@@ -1,11 +1,10 @@
 .lead__caption {
-    font-style: 'Regular';
     font-size: 10px;
     line-height: 14px;
     white-space: nowrap;
     margin: 0;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
 }
 
 @media screen and (max-width:768px) {

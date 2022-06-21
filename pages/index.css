@@ -4,6 +4,7 @@
 /*Блок page*/
 
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/__links/page__links.css);
 
 /*Блок header*/
 
@@ -11,7 +12,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link-ru/header__lang-link-ru.css);
+@import url(../blocks/header/__lang-link/_selected/header__lang-link_selected.css);
 
 /*Блок lead*/
 

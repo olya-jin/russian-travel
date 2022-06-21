@@ -1,5 +1,4 @@
 .intro__text {
-    font-style: "regular";
     font-size: 16px;
     line-height: 26px;
     margin: 40px 0 33px;
@@ -7,8 +6,6 @@
 
 @media screen and (max-width:320px) {
     .intro__text {
-        font-size: 16px;
-        line-height: 26px;
         margin: 40px 0 34px;
     }
 }

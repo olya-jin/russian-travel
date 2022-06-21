@@ -1,4 +1,6 @@
 .page__links {
+    text-decoration: none;
+    color: #FFFFFF;
     transition: opacity .3s;
 }
 
